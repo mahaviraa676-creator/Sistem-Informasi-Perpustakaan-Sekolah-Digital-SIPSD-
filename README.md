@@ -1,0 +1,2 @@
+# Sistem-Informasi-Perpustakaan-Sekolah-Digital-SIPSD-
+SIPSD adalah aplikasi web perpustakaan sekolah multi-role (Admin, Petugas, Pustakawan, Wali Murid, Siswa) dengan PHP Laravel &amp; MySQL. Mengelola koleksi, peminjaman, pengembalian, dan denda. Fitur utama meliputi laporan real-time PDF/Excel, manajemen koleksi premium, dan notifikasi WA/Email. Sistem modern,aman,dan responsif dengan Bootstrap Premium.
